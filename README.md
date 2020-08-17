@@ -89,7 +89,9 @@ Inside the `robot_sort` directory you'll find the `robot_sort.py` file. Open it 
 
 * There is no efficiency requirement but you may lose points for an unreasonably slow solution. Tests should run in far less than 1 second.
 
-* We discussed a sorting method this week that might be useful. Which one?
+* We discussed a sorting method this week that might be useful. Which one? 
+
+** Bubble sort and selection sort both seem applicable.
 
 * The robot has exactly one bit of memory: its light. Why is this important?
 
